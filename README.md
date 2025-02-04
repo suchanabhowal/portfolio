@@ -36,7 +36,7 @@ Let’s build something amazing together! 🚀
 - Focusing on the development of an AI-Powered Regulatory Compliance Checker for Contracts.
 - Leveraging advanced technologies such as Retrieval-Augmented Generation (RAG), Groq, LangChain, CI/CD pipelines, and large language models (LLMs) for innovative solutions.
 
-## ⚙️ Technical Skills  
+##  Technical Skills  
 
 - **🐍 Python & Machine Learning:**  
   - Proficient in Python for ML applications using **NumPy, Pandas, Scikit-learn**  
